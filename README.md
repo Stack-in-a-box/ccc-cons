@@ -2,6 +2,8 @@
 
 ## Colour-restored Creative Cloud Icons
 
+![Hero Image](hero.png)
+
 A set of icon files that can be used to replace the installed app icons for the late-2020 editions of the [Adobe](https://www.adobe.com/) [Creative Cloud](https://www.adobe.com/creativecloud) suite of productivity applications on Windows and macOS. The shape of the graphics are the late-2020 style, but the colours have been restored to their classic, individually-branded app colours, so that they return to their easily identifiable state. The main benefits are twofold:
 
 1. **Apps in the same Adobe-defined “category” are now clearly distinguishable from one another** at a glance, reducing the chance of accidentally opening the wrong one, which can waste precious productivity time waiting for it to load just so it can be closed again…
