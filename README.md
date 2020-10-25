@@ -93,6 +93,7 @@ _Instructions coming soon!_
 * Publish said tool to the Windows Store and Mac App Store.
 * Expand the set of icons to include the thumbnail variants that files associated with each application uses.
 * Update for 2021+ whenever the icon style next changes…
+* It might be cool to provide additional icons with the style tweaked to be more fitting with Microsoft’s newest Fluent Design iconography language refresh and macOS Big Sur style “neumorphism” respectively, allowing the icons to be more tailored to each platform’s core aesthetic.
 
 ## Limitations
 
