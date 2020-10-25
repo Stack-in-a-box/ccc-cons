@@ -1,10 +1,8 @@
 <div align="center">
     <h1>
-        <img src="logo.png" alt="CCC ’Cons" width="300px">
+        <p><img src="logo.png" alt="CCC ’Cons" width="320px"></p>
+        <p><img src="subtitle.png" alt="Colour-restored Creative Cloud Icons" width="400px"></p>
     </h1>
-    <h3>
-        <img src="subtitle.png" alt="Colour-restored Creative Cloud Icons" width="500px">
-    </h3>
     <h4>
         <a href="#instructions">Instructions</a>
         •
@@ -13,7 +11,26 @@
         <a href="#limitations">Limitations</a>
         •
         <a href="#acknowledgements">Acknowledgements</a>
+        •
+        <a href="#licence">Licence</a>
     </h4>
+    <h3>
+        <a href="https://www.github.com/andidavies92">
+            <img src="https://img.shields.io/badge/maintainer-%40andidavies92-yellow">
+        </a>
+        <a href="https://www.github.com/andidavies92/ccc-cons/commit/2911f6b38d18fbb6e0ddffd9008f8cf2490bca63">
+            <img src="https://img.shields.io/badge/initial%20commit-15th%20october%202020-brightgreen">
+        </a>
+        <a href="https://www.github.com/andidavies92/ccc-cons/commits/main">
+            <img src="https://img.shields.io/github/last-commit/andidavies92/ccc-cons?color=blue&label=last%20updated">
+        </a>
+        <a href="https://www.github.com/andidavies92/ccc-cons/releases/latest">
+            <img src="https://img.shields.io/github/v/release/andidavies92/ccc-cons?color=blueviolet&label=latest%20release">
+        </a>
+        <a href="#licence">
+            <img src="https://img.shields.io/badge/licence-%C2%A9%20%2B%20MIT-crimson">
+        </a>
+    </h3>
 </div>
 
 ---
@@ -85,12 +102,14 @@ _Instructions coming soon!_
 
 ## Acknowledgements
 
-CCC ’Cons icon pack created by [Andi Emma Davies](https://www.github.com/andidavies92).
-
 [Early-2020 icon PNGs](https://www.gumroad.com/l/xbxCK) created by [Conor Honer](https://www.behance.net/conorhoner).
 
 [Late-2020 icon SVGs](https://www.stevenqueiruga.com/adobe-icons) created by [Steven Queiruga](https://www.stevenqueiruga.com/).
 
 [svg_to_ico](https://www.github.com/Ortham/svg_to_ico) by [Oliver Hamlet](https://www.github.com/Ortham) is used to create the output ICO files (yay, [Rust](https://www.rust-lang.org/)!).
+
+## Licence
+
+CCC ’Cons icon pack created by [Andi Emma Davies](https://www.github.com/andidavies92) and [licensed under MIT](LICENCE).
 
 All brandnames and graphics Copyright © [Adobe Inc](https://www.adobe.com/) 2020. All rights reserved.
