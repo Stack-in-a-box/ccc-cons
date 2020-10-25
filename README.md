@@ -46,14 +46,16 @@ The main benefits are twofold:
 
 ## Instructions
 
-### Generate the ICO files
+### Generate the ICO files (optional)
+
+**Note:** If you don’t want to have to clone this repo and generate the icons yourself, you can simply download the pre-generated icon set from the [latest release](https://www.github.com/andidavies92/ccc-cons/releases/latest).
 
 1. Download [svg_to_ico](https://www.github.com/Ortham/svg_to_ico), keep the binary somewhere appropriate and add it to your path.
 2. Open a PowerShell prompt with the working directory set to the repository’s root.
 3. Run `generate.ps1`, which will generate ICO icon files from the source SVGs.
 4. Find the generated ICO files in the newly-created `/output` directory.
 
-### Apply the icons
+### Apply the icons (manually)
 
 #### Windows
 
