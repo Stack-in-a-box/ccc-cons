@@ -15,17 +15,17 @@
         <a href="#licence">Licence</a>
     </h4>
     <h3>
-        <a href="https://www.github.com/andidavies92">
-            <img src="https://img.shields.io/badge/maintainer-%40andidavies92-yellow">
+        <a href="https://www.github.com/andiemmadavies">
+            <img src="https://img.shields.io/badge/maintainer-%40andiemmadavies-yellow">
         </a>
-        <a href="https://www.github.com/andidavies92/ccc-cons/commit/2911f6b38d18fbb6e0ddffd9008f8cf2490bca63">
+        <a href="https://www.github.com/Stack-in-a-box/ccc-cons/commit/2911f6b38d18fbb6e0ddffd9008f8cf2490bca63">
             <img src="https://img.shields.io/badge/initial%20commit-15th%20october%202020-brightgreen">
         </a>
-        <a href="https://www.github.com/andidavies92/ccc-cons/commits/main">
-            <img src="https://img.shields.io/github/last-commit/andidavies92/ccc-cons?color=blue&label=last%20updated">
+        <a href="https://www.github.com/Stack-in-a-box/ccc-cons/commits/main">
+            <img src="https://img.shields.io/github/last-commit/Stack-in-a-box/ccc-cons?color=blue&label=last%20updated">
         </a>
-        <a href="https://www.github.com/andidavies92/ccc-cons/releases/latest">
-            <img src="https://img.shields.io/github/v/release/andidavies92/ccc-cons?color=blueviolet&label=latest%20release">
+        <a href="https://www.github.com/Stack-in-a-box/ccc-cons/releases/latest">
+            <img src="https://img.shields.io/github/v/release/Stack-in-a-box/ccc-cons?color=blueviolet&label=latest%20release">
         </a>
         <a href="#licence">
             <img src="https://img.shields.io/badge/licence-%C2%A9%20%2B%20MIT-crimson">
@@ -48,7 +48,7 @@ The main benefits are twofold:
 
 ### Generate the ICO files (optional)
 
-**Note:** If you don’t want to have to clone this repo and generate the icons yourself, you can simply download the pre-generated icon set from the [latest release](https://www.github.com/andidavies92/ccc-cons/releases/latest).
+**Note:** If you don’t want to have to clone this repo and generate the icons yourself, you can simply download the pre-generated icon set from the [latest release](https://www.github.com/Stack-in-a-box/ccc-cons/releases/latest).
 
 1. Download [svg_to_ico](https://www.github.com/Ortham/svg_to_ico), keep the binary somewhere appropriate and add it to your path.
 2. Open a PowerShell prompt with the working directory set to the repository’s root.
@@ -98,7 +98,7 @@ _Instructions coming soon!_
 ## Limitations
 
 * For some reason, some of the Start tile backgrounds in Windows 10’s October 2020 Update dark theme are lighter than others, rather than a consistent colour like they are in the light theme, presumably due to the overall icon graphic passing a certain luminance threshold. I have no idea if it’s possible to override this unfortunately.
-* I haven’t tested these icons on macOS yet. As a Windows user, I don’t have a Mac myself, so if you have one and would be willing to test the instructions for me (as well as provide some specific screenshots needed to demo the icon pack on this README), then please do get in-touch by messaging me via [my LinkedIn profile](https://www.linkedin.com/in/andidavies92)!
+* I haven’t tested these icons on macOS yet. As a Windows user, I don’t have a Mac myself, so if you have one and would be willing to test the instructions for me (as well as provide some specific screenshots needed to demo the icon pack on this README), then please do get in-touch by messaging me via [my LinkedIn profile](https://www.linkedin.com/in/andiemmadavies)!
 * It’s currently impossible to change the icon for Windows Store apps, such as Adobe XD, so they are excluded from this icon pack. That being said, XD’s existing colours are similar to how they were before apps got bunched into groups, so the impact of this is minimal.
 * Obviously it’s not possible without some _serious_ reverse engineering to replace the in-app icon assets, so the icons shown within the app will always have to be the official CC icons.
 * I don’t yet know whether individual apps being updated via the Creative Cloud app clobber the existing shortcuts or not, so time will tell with that one. One slightly-ugly but pragmatic workaround to this would be to schedule a task to run at system startup that re-runs the [one-step tool](#roadmap) which would automatically apply the changes to any newly-created shortcuts.
@@ -113,6 +113,6 @@ _Instructions coming soon!_
 
 ## Licence
 
-CCC ’Cons icon pack created by [Andi Emma Davies](https://www.github.com/andidavies92) and [licensed under MIT](LICENCE).
+CCC ’Cons icon pack created by [Andi Emma Davies](https://www.github.com/andiemmadavies) and [licensed under MIT](LICENCE).
 
-All brandnames and graphics Copyright © [Adobe Inc](https://www.adobe.com/) 2020. All rights reserved.
+All brandnames and graphics Copyright © [Adobe Inc](https://www.adobe.com/) 2020–21. All rights reserved.
